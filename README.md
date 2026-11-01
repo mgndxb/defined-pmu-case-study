@@ -205,8 +205,8 @@ repository.
 
 ## My role
 
-I am Magnus Kaur, a software developer in Helsinki. Defined PMU is my work as
-the sole developer on the project.
+I am [Magnus Kaur](https://magnus.is-a.dev), a software developer in Helsinki.
+Defined PMU is my work as the sole developer on the project.
 
 I owned the product requirements, the business rules, the architecture
 decisions, the implementation direction, the review of behaviour and code, the
